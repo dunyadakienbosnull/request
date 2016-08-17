@@ -1,6 +1,5 @@
 # Request
 ### Nedir ?
-Bu script Rabbit the Climber oyununun skor gönderme açığından yararlanılarak yazılmıştır.
 HTML form gönderme işlemini python2.x kullanarak gönderme işlemidir.
 ### Neden ?
 Canımız sıkıldı yaptık
@@ -21,3 +20,5 @@ payload = {'nickname': 'NULL', 'gameid':'145','gameMode':'3','score':'2147483647
 ```py
 r = requests.post(url,data=payload)
 ```
+
+**Bu script Rabbit the Climber oyununun skor gönderme açığından yararlanılarak yazılmıştır. Not: özür dileriz :( **
