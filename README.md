@@ -4,7 +4,7 @@ Bu script Rabbit the Climber oyununun skor gönderme açığından yararlanılar
 HTML form gönderme işlemini python2.x kullanarak gönderme işlemidir.
 ### Neden ?
 Canımız sıkıldı yaptık
-### Nasıl
+### Nasıl ?
 - [Requests](https://github.com/kennethreitz/requests/) librarysi import edilir.
 ```py
 import requests
